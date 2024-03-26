@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Git Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5807d821-a6eb-47c3-810d-5e83039ecc92</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9a78771-4ccd-48ef-8563-49221efadf1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40b1a138-0e38-4d6d-9fe8-4b157e2a8c2d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc67c483-0234-4bf1-80b1-8804581d9e54</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a9a78771-4ccd-48ef-8563-49221efadf1b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40b1a138-0e38-4d6d-9fe8-4b157e2a8c2d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc67c483-0234-4bf1-80b1-8804581d9e54</id>
+      <masked>false</masked>
+      <name>expected_msg</name>
+   </variable>
+</TestCaseEntity>
